@@ -1,0 +1,58 @@
+{
+  "pathList": [
+    {
+      "level": 1,
+      "type": 2,
+      "hash": "",
+      "balances": {
+        "BTC": "0",
+        "ETH": "0",
+        "USDT": "0",
+        "USDC": "0"
+      }
+    },
+    {
+      "level": 2,
+      "type": 1,
+      "hash": "fd16e2873b7ba421eaa5f712103fa051",
+      "balances": {
+        "BTC": "1523108.27",
+        "ETH": "1233339.49",
+        "USDT": "2053858.51",
+        "USDC": "0"
+      }
+    },
+    {
+      "level": 3,
+      "type": 1,
+      "hash": "ed771820c0a237db0aa06020b0c6595c",
+      "balances": {
+        "BTC": "2863723.1",
+        "ETH": "3572927.52",
+        "USDT": "3045164.67",
+        "USDC": "0"
+      }
+    },
+    {
+      "level": 4,
+      "type": 3,
+      "hash": "35d01ffef2beec3ff0166c03f3d9b0cc",
+      "balances": {
+        "BTC": "4386831.37",
+        "ETH": "5001729.74",
+        "USDT": "5099023.18",
+        "USDC": "0"
+      }
+    }
+  ],
+  "self": {
+    "level": 0,
+    "type": 1,
+    "hash": "8c288ee092d370002ff31d0f8f48eb5f",
+    "balances": {
+      "ETH": "195462.73"
+    },
+    "proofId": "PR-2025-01-22",
+    "accountId": "1745297673"
+  }
+}
